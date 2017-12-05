@@ -1,5 +1,4 @@
-# Maintainer: Ramon Buldó <rbuldo@gmail.com>
-# Maintainer: Bernhard Landauer <oberon@manjaro.org
+# Maintainer: Holmes <holmes_holmes [at] live [dot] com>
 
 pkgname=browser-settings-kibojoe
 pkgver=20171205
