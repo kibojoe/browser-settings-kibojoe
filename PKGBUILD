@@ -2,7 +2,7 @@
 # Maintainer: Bernhard Landauer <oberon@manjaro.org
 
 pkgname=browser-settings-kibojoe
-pkgver=20171203
+pkgver=20171205
 pkgrel=1
 pkgdesc="Kibojoe Linux settings browser defaults"
 arch=('x86_64')
@@ -16,6 +16,7 @@ pkgver() {
 }
 
 package() {
+  cd $pkgname
   mkdir -p $pkgdir/usr/lib/palemoon/distribution
   cp palemoon/* $pkgdir/usr/lib/palemoon/distribution
 }
