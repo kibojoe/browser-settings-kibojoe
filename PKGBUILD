@@ -1,7 +1,7 @@
 # Maintainer: Holmes <holmes_holmes [at] live [dot] com>
 
 pkgname=browser-settings-kibojoe
-pkgver=20171205
+pkgver=2018
 pkgrel=1
 pkgdesc="Kibojoe Linux settings browser defaults"
 arch=('x86_64')
